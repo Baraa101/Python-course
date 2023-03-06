@@ -1,0 +1,11 @@
+- Get HN website Front Page
+- Scrape Required Content (Title/Link)
+- Build Email Body/Content
+- Email Authentication
+- Email Sent
+
+* Requist
+* bs4
+* smtplib (default)
+* email.mime (default)
+* datetime (default)
